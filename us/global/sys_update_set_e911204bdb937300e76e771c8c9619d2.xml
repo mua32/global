@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-08-20 14:18:45">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>CICDIntegrationB2</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>e911204bdb937300e76e771c8c9619d2</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-20 14:18:44</sys_created_on>
+<sys_id>f051e0c7db177300e76e771c8c9619a3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-20 14:18:44</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_b67b782cdb4b7300e76e771c8c961929</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;flush_cache&gt;false&lt;/flush_cache&gt;&lt;name&gt;Testing CICD&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;run_once&gt;true&lt;/run_once&gt;&lt;script&gt;&lt;![CDATA[gs.print("Hello CICDXXxcx");]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-07-31 11:32:51&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;b67b782cdb4b7300e76e771c8c961929&lt;/sys_id&gt;&lt;sys_mod_count&gt;12&lt;/sys_mod_count&gt;&lt;sys_name&gt;Testing CICD&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_b67b782cdb4b7300e76e771c8c961929&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-08-20 14:17:57&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2114353860</payload_hash>
+<remote_update_set display_value="CICDIntegrationB2">f051e0c7db177300e76e771c8c9619a3</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-08-20 14:18:44</sys_created_on>
+<sys_id>f451e0c7db177300e76e771c8c9619a3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16caf643a960000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-08-20 14:18:44</sys_updated_on>
+<table/>
+<target_name>Testing CICD</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>812128c794177300ca0d8b5046765013</update_guid>
+<update_guid_history>812128c794177300ca0d8b5046765013:2114353860,e32d58c31ad373003bf5c9806d2dba71:-1501868455,4836c0c344d3730079d8b550d7e21a88:-230451637,e162cb24921f33008a70b0cce7faec7c:-1490378613,5dce0c32d34f73004c952e6654520dea:-1394751481,3f9b44bea80f73009ccdffc86a6cf284:155456521,1b7e77ea06cb73000c03d016df2f00ba:1905284831,6985d86e47837300a625ced99836c3ca:-456675254,38a98ca20783730012af1f5f02a63ba9:-1490378613,c6d2038de807f3008b50660918ef93a0:428557694,d2f71ef4c50bb300c7f0666ae2119a3e:-227216949,60750564988b7300911c233cb20ed7fc:-456675254,f78bb02cca4b73008d0953b976fdbb3c:-1490378613</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
