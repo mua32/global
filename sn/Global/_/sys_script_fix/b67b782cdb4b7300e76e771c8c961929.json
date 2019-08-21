@@ -13,13 +13,13 @@
   "sys_created_by": "admin",
   "sys_created_on": "2019-07-31 11:32:51",
   "sys_id": "b67b782cdb4b7300e76e771c8c961929",
-  "sys_mod_count": 12,
+  "sys_mod_count": 13,
   "sys_name": "Testing CICD",
   "sys_package": "global",
   "sys_policy": null,
   "sys_scope": "global",
   "sys_update_name": "sys_script_fix_b67b782cdb4b7300e76e771c8c961929",
   "sys_updated_by": "admin",
-  "sys_updated_on": "2019-08-20 14:17:57",
+  "sys_updated_on": "2019-08-21 13:24:20",
   "unloadable": false
 }
